@@ -12,6 +12,10 @@
 1. Watch this tutorial for detail installation process https://www.youtube.com/watch?v=ArhGFDImEX0&t=309s
 2. For full documentation, please visit link https://laravel.com/docs/9.x/releases
 
+laravel debugger analysis
+
+1. check https://github.com/barryvdh/laravel-debugbar
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
