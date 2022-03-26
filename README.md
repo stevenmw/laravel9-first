@@ -10,7 +10,8 @@
 ## Important!
 
 1. Watch this tutorial for detail installation process https://www.youtube.com/watch?v=ArhGFDImEX0&t=309s
-2. For full documentation, please visit link https://laravel.com/docs/9.x/releases
+2. Create REST API with sanctum authentication https://www.youtube.com/watch?v=MT-GJQIY3EU
+3. For full documentation, please visit link https://laravel.com/docs/9.x/releases
 
 laravel debugger analysis
 
